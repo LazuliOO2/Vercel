@@ -1,3 +1,6 @@
+# Porque Vercel?
+Este projeto está versionado no Vercel. Você pode acessar o site através do link:'https://olimpiadashist.vercel.app/'
+
 # Estrutura HTML
 
 **Cabeçalho**: Define o título da página, metadados e links para arquivos CSS externos, incluindo o Bootstrap para facilitar o layout e o Font Awesome para ícones.
@@ -37,3 +40,6 @@
 # Animação com CSS
 
 Foi a primeira vez que fiz animação com CSS e, como eu queria fazer algo novo, já que tinha um pouco de conhecimento sobre HTML, CSS e JS, decidi colocar essa animação. Achei fácil de fazer e irei aprofundar mais meu conhecimento em animação.
+
+# Funcionamento
+O projeto atualmente não está completo porque ainda falta deixá-lo responsivo para os demais dispositivos. Pretendo fazer essa atualização em breve. Na Vercel e no navegador Edge, o site está com o alinhamento correto; entretanto, no Google, o alinhamento está errado. Tenho outro repositório de frontend que possui a versão correta para o Google, caso queira acessá-lo.

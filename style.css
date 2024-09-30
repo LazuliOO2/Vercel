@@ -16,6 +16,7 @@ position: fixed;
 width: 100%;
 z-index: 1000;
 }
+
 /* Usamos o padding top para define o espaçamento interno de cima */
 #busca{
 padding-top: 5px;
@@ -28,7 +29,7 @@ padding-top: 5px;
     align-items: center;
     background-image: url(img/fundo.jfif);
     height: 900px;
-    padding-right: 200px;
+    padding-right: 0%;
     position: relative;
 }
 
@@ -258,11 +259,12 @@ outline: 2px solid #6a1b9a ;
 .contact-info {
     display: flex;
     text-align: center;
+    justify-content: center;
   }
   
   .section {
     margin-top: 30px;
-    margin-left: 350px;
+    margin-left: 10%;
     
 }
 #titCont{
